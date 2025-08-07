@@ -1,0 +1,16 @@
+
+{
+  "outlook": {
+    "email": "your-email@ags.edu.sa",
+    "password": "your-password"
+  },
+  "admins": [
+    "admin1@ags.edu.sa",
+    "admin2@ags.edu.sa"
+  ],
+  "workingHours": {
+    "from": "07:00",
+    "to": "15:00"
+  },
+  "lang": "ar"
+}
